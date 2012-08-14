@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">BoardingPass</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_boarding_pass">BoardingPassActivity</string>
+    <string name="from_activity_boarding_pass">From:</string>
+     <string name="to_activity_boarding_pass">To:</string>
+     <string name="show_pass_activity_boarding_pass">Show pass</string>
+     <string name="flight_info_activity_boarding_pass">Show pass:</string>
+
+</resources>
